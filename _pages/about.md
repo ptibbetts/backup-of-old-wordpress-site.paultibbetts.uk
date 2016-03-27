@@ -18,14 +18,15 @@ For now the best online version of my CV is my <a href="https://uk.linkedin.com/
 <h2>What I'm interested in right now</h2>
 Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's a list of things I'm currently working towards:
 <ul>
-	<li>Writing, taking photos and integrating <a href="https://indiewebcamp.com">IndieWeb</a> features onto my own website</li>
+	<li>Taking part in <a href="https://marcjenkins.co.uk/30dwc/">Marc's 30 Day Writing Challenge</a></li>
 	<li>Learning <a href="https://facebook.github.io/react/">React</a> to help me build things on the front end</li>
 	<li>Learning <a href="https://laravel.com/">Laravel</a> so I can build my own apps</li>
-	<li>Improving my fitness by getting back into the gym and running again</li>
+	<li>Improving my fitness by getting into the gym and running again<li>
 </ul>
 <!-- You can read more about these on my own <a href="../pages/now.html">now page</a>. -->
 
-<em>Last updated:</em> February, 2016.
+<em>Last updated:</em> March, 2016.
+
 <h2>About this website</h2>
 This website acts as my central hub online. I'm trying to add as many <a href="https://indiewebcamp.com">indieweb</a> features as I can to help me <a href="http://indiewebcamp.com/own-your-data">own my own data</a>.
 
@@ -38,4 +39,3 @@ It's made up of four parts, there's:
 	<li>the backend code, available at <a href="https://github.com/ptibbetts/paultibbetts.uk">https://github.com/ptibbetts/paultibbetts.uk</a></li>
 	<li>the backup, available at <a href="https://github.com/ptibbetts/backup-of.paultibbetts">https://github.com/ptibbetts/backup-of.paultibbetts</a></li>
 </ul>
-<!-- The website's content is also backed up to <a href="#">it's own repository on GitHub</a>. -->
