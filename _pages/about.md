@@ -23,6 +23,7 @@ Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's 
 	<li>Learning <a href="https://laravel.com/">Laravel</a> so I can build my own apps</li>
 	<li>Improving my fitness by getting into the gym and running again<li>
 </ul>
+
 <!-- You can read more about these on my own <a href="../pages/now.html">now page</a>. -->
 
 <em>Last updated:</em> March, 2016.
