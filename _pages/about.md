@@ -29,7 +29,7 @@ Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's 
 <em>Last updated:</em> March, 2016.
 
 <h2>About this website</h2>
-This website acts as my central hub online. I'm trying to add as many <a href="https://indiewebcamp.com">indieweb</a> features as I can to help me <a href="http://indiewebcamp.com/own-your-data">own my own data</a>.
+This website acts as my central hub online. I'm trying to add as many <a href="https://indiewebcamp.com">IndieWeb</a> features as I can to help me <a href="http://indiewebcamp.com/own-your-data">own my own data</a>.
 
 It's built with WordPress using <a href="https://roots.io/trellis">Trellis</a>, <a href="https://roots.io/bedrock">Bedrock</a> and <a href="https://roots.io/sage">Sage</a> (all by the <a href="https://roots.io">Roots</a> team).
 
