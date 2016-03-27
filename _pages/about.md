@@ -21,7 +21,7 @@ Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's 
 	<li>Taking part in <a href="https://marcjenkins.co.uk/30dwc/">Marc's 30 Day Writing Challenge</a></li>
 	<li>Learning <a href="https://facebook.github.io/react/">React</a> to help me build things on the front end</li>
 	<li>Learning <a href="https://laravel.com/">Laravel</a> so I can build my own apps</li>
-	<li>Improving my fitness by getting into the gym and running again<li>
+	<li>Improving my fitness by getting into the gym and running again</li>
 </ul>
 
 <!-- You can read more about these on my own <a href="../pages/now.html">now page</a>. -->
