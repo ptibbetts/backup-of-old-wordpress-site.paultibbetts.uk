@@ -38,5 +38,5 @@ It's made up of four parts, there's:
 	<li>the styleguide, available at <a href="https://ptibbetts.github.io/styles.paultibbetts.uk/">https://ptibbetts.github.io/styles.paultibbetts.uk/</a></li>
 	<li>the frontend code, available at <a href="https://github.com/ptibbetts/allusion">https://github.com/ptibbetts/allusion</a></li>
 	<li>the backend code, available at <a href="https://github.com/ptibbetts/paultibbetts.uk">https://github.com/ptibbetts/paultibbetts.uk</a></li>
-	<li>the backup, available at <a href="https://github.com/ptibbetts/backup-of.paultibbetts">https://github.com/ptibbetts/backup-of.paultibbetts</a></li>
+	<li>the backup, available at <a href="https://github.com/ptibbetts/backup-of.paultibbetts.uk">https://github.com/ptibbetts/backup-of.paultibbetts.uk</a></li>
 </ul>
