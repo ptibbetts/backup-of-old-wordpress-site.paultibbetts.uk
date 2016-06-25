@@ -10,7 +10,6 @@ published: true
 ---
 The best way to contact me is to email me at <a href="mailto:email@paultibbetts.uk">email@paultibbetts.uk</a>
 
-I run my own email server which means your messages to me aren't <a href="https://ar.al/notes/the-camera-panopticon/">scanned by an advertising company</a>.
 <h2>You can also find me on</h2>
 <ul class="o-listOfLinks">
 	<li><a href="https://talk.birmingham.io/users/paul_tibbetts">Birmingham.io <span class="o-listOfLinks-meta">@paul_tibbetts</span></a></li>
