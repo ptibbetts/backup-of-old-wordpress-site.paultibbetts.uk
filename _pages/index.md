@@ -5,6 +5,6 @@ author: paul
 post_date: 2016-06-25 14:37:02
 post_excerpt: ""
 layout: page
-permalink: https://paultibbetts.uk/index/
+permalink: https://paultibbetts.uk/
 published: true
 ---
