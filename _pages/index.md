@@ -10,9 +10,12 @@ published: true
 image:
   - "36"
 note:
-  - '<span class="p-job-title">Full Stack Web Developer</span>'
+  - |
+    I'm a <span class="p-job-title">Full Stack Web Developer</span> currently splitting my time between <span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>
+    
+    &nbsp;
 locality:
-  - '<span class="p-locality">Birmingham</span> <strong>and</strong> <span class="p-locality">London</span>'
+  - ""
 introduction:
   - ""
 email:
@@ -30,5 +33,5 @@ medium:
 codepen:
   - ""
 linkedin:
-  - ""
+  - uk.linkedin.com/in/paultibbetts
 ---
