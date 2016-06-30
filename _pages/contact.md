@@ -8,7 +8,7 @@ layout: page
 permalink: https://paultibbetts.uk/contact/
 published: true
 ---
-if you'd like to hire me for a short term project, either remote or in-house - <a href="mailto:hire@paultibbetts.uk">hire@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/hire-paultibbetts-uk/">PGP</a>)
+if you'd like to hire me for a short term project, either remote or in-house <a href="mailto:hire@paultibbetts.uk">hire@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/hire-paultibbetts-uk/">PGP</a>)
 
 if it's code related there's <a href="mailto:code@paultibbetts.uk">code@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/code-paultibbetts-uk/">PGP</a>)
 
