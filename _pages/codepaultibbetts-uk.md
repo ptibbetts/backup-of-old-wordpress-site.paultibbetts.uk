@@ -1,16 +1,15 @@
 ---
 ID: 43
-post_title: code@paultibbetts.uk-pgp
+post_title: code@paultibbetts.uk
 author: paul
 post_date: 2016-06-30 00:49:29
 post_excerpt: ""
 layout: page
 permalink: >
-  https://paultibbetts.uk/codepaultibbetts-uk-pgp/
+  https://paultibbetts.uk/pgp/codepaultibbetts-uk/
 published: true
 ---
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: GPGTools - https://gpgtools.org
 
 mQINBFdYr7QBEADEe1aghGcX9EkqJhTpuDnanu8l0cac9ay0nYGf/EUtwBrqdwid
 nwgC9NweIBoBmxiRdLRiign58CE07Wz9PKBcoFXKc3pJ+KPestX17G8I3yoqwyAO
