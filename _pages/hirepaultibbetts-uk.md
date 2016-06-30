@@ -1,16 +1,15 @@
 ---
 ID: 41
-post_title: hire@paultibbetts.uk-pgp
+post_title: hire@paultibbetts.uk
 author: paul
 post_date: 2016-06-30 00:48:59
 post_excerpt: ""
 layout: page
 permalink: >
-  https://paultibbetts.uk/hirepaultibbetts-uk-pgp/
+  https://paultibbetts.uk/pgp/hirepaultibbetts-uk/
 published: true
 ---
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-Comment: GPGTools - https://gpgtools.org
 
 mQINBFd0Y/kBEACvZVd/2u0hDtWejnWqcggEuu5fPc2FHCd4IXTMyA/zGqvjI73I
 0PBU/QAAEfGdGZK9hZseXJcKwAc0uqWscC6LjevY40En5evS3t/l1weBDoWScgyh
