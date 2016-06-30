@@ -14,7 +14,7 @@ note:
 locality:
   - '<span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>'
 introduction:
-  - ""
+  - 'You can read more about me on my very own <a href="https://paultibbetts.uk/about/">about page</a> or get in touch via the <a href="https://paultibbetts.uk/contact/">contact page</a>'
 email:
   - email@paultibbetts.uk
 twitter:
