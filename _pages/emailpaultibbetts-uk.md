@@ -1,12 +1,12 @@
 ---
 ID: 45
-post_title: email@paultibbetts.uk-pgp
+post_title: email@paultibbetts.uk
 author: paul
 post_date: 2016-06-30 00:50:27
 post_excerpt: ""
 layout: page
 permalink: >
-  https://paultibbetts.uk/emailpaultibbetts-uk-pgp/
+  https://paultibbetts.uk/emailpaultibbetts-uk/
 published: true
 ---
 -----BEGIN PGP PUBLIC KEY BLOCK-----
