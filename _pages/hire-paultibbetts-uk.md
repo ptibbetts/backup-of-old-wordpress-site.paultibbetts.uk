@@ -9,7 +9,6 @@ permalink: >
   https://paultibbetts.uk/pgp/hire-paultibbetts-uk/
 published: true
 ---
-<h1>hire@paultibbetts.uk</h1>
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFd0Y/kBEACvZVd/2u0hDtWejnWqcggEuu5fPc2FHCd4IXTMyA/zGqvjI73I
