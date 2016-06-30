@@ -6,7 +6,7 @@ post_date: 2016-06-30 00:49:29
 post_excerpt: ""
 layout: page
 permalink: >
-  https://paultibbetts.uk/pgp/codepaultibbetts-uk/
+  https://paultibbetts.uk/pgp/code-paultibbetts-uk/
 published: true
 ---
 -----BEGIN PGP PUBLIC KEY BLOCK-----
