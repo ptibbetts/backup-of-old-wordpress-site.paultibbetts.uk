@@ -8,14 +8,14 @@ layout: page
 permalink: https://paultibbetts.uk/about/
 published: true
 ---
-Hi, my name's Paul Tibbetts and you're currently looking at my website.
+Hi, my name's Paul and you're currently looking at my website.
 
 <img class="u-roundEdges" src="https://placehold.it/1280x840&amp;text=😎" alt="" />
 
 I'm a Full Stack Developer, currently spending alternate weeks in Birmingham and London in the UK.
 
 For now the best online version of my CV is my <a href="https://uk.linkedin.com/in/paultibbetts">LinkedIn profile</a>.
-<h2>What I'm interested in right now</h2>
+<h2>what I'm interested in right now</h2>
 Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's a list of things I'm currently working towards:
 <ul>
  	<li>Building an app with Laravel and Vue.js</li>
@@ -26,7 +26,7 @@ Inspired by <a href="https://sivers.org/now">Derek Sivers' now page</a>, here's 
 <!-- You can read more about these on my own <a href="/now">now page</a>. -->
 
 <em>Last updated:</em> June, 2016.
-<h2>About this website</h2>
+<h2>about this website</h2>
 This website is so I can own my own data. I'll be adding <a href="https://indiewebcamp.com">IndieWeb</a> features to it on an ongoing basis.
 
 It's currently built with WordPress using the <a href="https://roots.io/trellis">Trellis</a>, <a href="https://roots.io/bedrock">Bedrock</a> and <a href="https://roots.io/sage">Sage</a> stack by the <a href="https://roots.io">Roots</a> team.
