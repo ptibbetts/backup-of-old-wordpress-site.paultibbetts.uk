@@ -8,11 +8,11 @@ layout: page
 permalink: https://paultibbetts.uk/contact/
 published: true
 ---
-if you'd like to hire me for a short term project, either remote or in-house - <a href="mailto:hire@paultibbetts.uk">hire@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/hirepaultibbetts-uk/">PGP</a>)
+if you'd like to hire me for a short term project, either remote or in-house - <a href="mailto:hire@paultibbetts.uk">hire@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/hire-paultibbetts-uk/">PGP</a>)
 
-if it's code related there's <a href="mailto:code@paultibbetts.uk">code@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/codepaultibbetts-uk/">PGP</a>)
+if it's code related there's <a href="mailto:code@paultibbetts.uk">code@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/code-paultibbetts-uk/">PGP</a>)
 
-or just plain old <a href="mailto:email@paultibbetts.uk">email@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/emailpaultibbetts-uk/">PGP</a>)
+or just plain old <a href="mailto:email@paultibbetts.uk">email@paultibbetts.uk</a> (<a href="https://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP</a>)
 <h2>you can also find me on</h2>
 <ul class="o-listOfLinks">
  	<li><a href="https://talk.birmingham.io/users/paul_tibbetts">Birmingham.io <span class="o-listOfLinks-meta">@paul_tibbetts</span></a></li>
