@@ -10,12 +10,9 @@ published: true
 image:
   - "36"
 note:
-  - |
-    I'm a <span class="p-job-title">Full Stack Web Developer</span> currently splitting my time between <span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>
-    
-    &nbsp;
+  - '<span class="p-job-title">Full Stack Web Developer</span>'
 locality:
-  - ""
+  - '<span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>'
 introduction:
   - ""
 email:
