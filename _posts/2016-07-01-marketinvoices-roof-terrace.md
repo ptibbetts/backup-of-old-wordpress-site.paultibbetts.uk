@@ -9,7 +9,7 @@ permalink: >
   https://paultibbetts.uk/2016/07/01/marketinvoices-roof-terrace/
 published: true
 ---
-<a href="https://paultibbetts.uk/app/uploads/2016/07/IMG_6885.jpg"><img class="alignnone size-full wp-image-83" src="https://paultibbetts.uk/app/uploads/2016/07/IMG_6885.jpg" alt="MarketInvoice roof terrace" /></a>
+<a href="https://paultibbetts.uk/app/uploads/2016/07/IMG_6885.jpg"><img class="alignnone wp-image-83 size-large" src="https://paultibbetts.uk/app/uploads/2016/07/IMG_6885-1024x768.jpg" alt="MarketInvoice roof terrace" /></a>
 
 ❤️ <a href="http://marketinvoice.com">MarketInvoice</a>'s new offices and the view from their roof terrace
 
