@@ -1,7 +1,7 @@
 ---
 ID: 95
 post_title: >
-  book delivery in time for sprint
+  delivery was just in time for sprint
   planning
 author: paul
 post_date: 2016-07-03 13:04:25
