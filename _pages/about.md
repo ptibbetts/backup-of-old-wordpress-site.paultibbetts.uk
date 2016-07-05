@@ -33,8 +33,8 @@ It's currently built with WordPress using the <a href="https://roots.io/trellis"
 
 It's made up of four parts, there's:
 <ul>
- 	<li>the styleguide, available at <a href="https://ptibbetts.github.io/styles.paultibbetts.uk/">https://ptibbetts.github.io/styles.paultibbetts.uk/</a></li>
- 	<li>the frontend code, available at <a href="https://github.com/ptibbetts/allusion">https://github.com/ptibbetts/allusion</a></li>
- 	<li>the backend code, available at <a href="https://github.com/ptibbetts/paultibbetts.uk">https://github.com/ptibbetts/paultibbetts.uk</a></li>
- 	<li>the backup, available at <a href="https://github.com/ptibbetts/backup-of.paultibbetts.uk">https://github.com/ptibbetts/backup-of.paultibbetts.uk</a></li>
+ 	<li><a href="https://ptibbetts.github.io/styles.paultibbetts.uk/">the styleguide</a></li>
+ 	<li><a href="https://github.com/ptibbetts/allusion">the front-end code</a></li>
+ 	<li><a href="https://github.com/ptibbetts/paultibbetts.uk">the back-end code</a></li>
+ 	<li><a href="https://github.com/ptibbetts/backup-of.paultibbetts.uk">the backup</a></li>
 </ul>
