@@ -9,6 +9,6 @@ permalink: >
   https://paultibbetts.uk/2016/07/14/introducing-apple-bedtime/
 published: true
 ---
-<a href="https://paultibbetts.uk/app/uploads/2016/07/IMG_6957.jpg"><img src="https://paultibbetts.uk/app/uploads/2016/07/IMG_6957-576x1024.jpg" alt="IMG_6957" width="576" height="1024" class="alignnone size-large wp-image-121" /></a>
+<a href="https://paultibbetts.uk/app/uploads/2016/07/IMG_6957.jpg"><img src="https://paultibbetts.uk/app/uploads/2016/07/IMG_6957-576x1024.jpg" alt="IMG_6957" class="alignnone size-large wp-image-121" /></a>
 
 Steve Jobs didn't make me have a bedtime
