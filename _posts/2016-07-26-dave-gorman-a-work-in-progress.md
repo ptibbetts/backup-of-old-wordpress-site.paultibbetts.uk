@@ -2,7 +2,7 @@
 ID: 155
 post_title: 'Dave Gorman: A Work In Progress'
 author: paul
-post_date: 2016-07-26 14:38:09
+post_date: 2016-07-26 19:00:09
 post_excerpt: ""
 layout: post
 permalink: >
