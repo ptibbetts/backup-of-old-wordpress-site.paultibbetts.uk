@@ -13,4 +13,4 @@ published: true
 
 <a href="https://paultibbetts.uk/app/uploads/2016/07/Screen-Shot-2016-07-17-at-21.47.41.jpg"><img class="alignnone size-large wp-image-152" src="https://paultibbetts.uk/app/uploads/2016/07/Screen-Shot-2016-07-17-at-21.47.41-1024x764.jpg" alt="screen shot of very little activity on codecademy" /></a>
 
-apparently you don't need to know much about HTML/CSS/JavaScript to become a Web Developer
+you apparently don't need to know much to become a Web Developer
