@@ -1,6 +1,6 @@
 ---
 ID: 128
-post_title: Earphone Upgrade
+post_title: ""
 author: paul
 post_date: 2016-07-04 13:49:22
 post_excerpt: ""
