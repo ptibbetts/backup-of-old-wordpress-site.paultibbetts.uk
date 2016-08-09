@@ -1,6 +1,6 @@
 ---
 ID: 141
-post_title: 'Amy&#8217;s Graduation'
+post_title: ""
 author: paul
 post_date: 2016-07-14 15:45:57
 post_excerpt: ""
