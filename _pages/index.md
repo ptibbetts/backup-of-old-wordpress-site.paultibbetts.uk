@@ -10,7 +10,7 @@ published: true
 image:
   - "36"
 note:
-  - '<span class="p-job-title">Full Stack Web Developer &amp; Web Consultant</span>'
+  - '<span class="p-job-title">Full Stack Developer &amp; Web Consultant</span>'
 locality:
   - '<span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>'
 introduction:
