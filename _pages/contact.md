@@ -10,7 +10,8 @@ published: true
 ---
 the best way to contact me is to <a href="mailto:email@paultibbetts.uk">email me at paul tibbetts dot uk</a>
  
-you can use my <a href="https://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if it you need to send me hot gossip
+you can use my <a href="https://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if you want to make it secure
+
 <h2>you can also find me on</h2>
 <ul class="o-listOfLinks">
  	<li><a href="https://talk.birmingham.io/users/paul_tibbetts">Birmingham.io <span class="o-listOfLinks-meta">@paul_tibbetts</span></a></li>
