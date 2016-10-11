@@ -10,11 +10,11 @@ published: true
 image:
   - "36"
 note:
-  - '<span class="p-job-title">Full Stack Developer &amp; Web Consultant</span>'
+  - '<span class="p-job-title">CTO/Co-Founder 🆕</span>'
 locality:
   - '<span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>'
 introduction:
-  - 'You can read more about me on my very own <a href="https://paultibbetts.uk/about/">about page</a> or get in touch via the <a href="https://paultibbetts.uk/contact/">contact page</a>'
+  - 'You can read more about me on my very own <a href="http://paultibbetts.uk/about/">about page</a> or get in touch via the <a href="http://paultibbetts.uk/contact/">contact page</a>'
 email:
   - email@paultibbetts.uk
 twitter:
@@ -31,4 +31,6 @@ codepen:
   - ""
 linkedin:
   - uk.linkedin.com/in/paultibbetts
+country_name:
+  - ""
 ---
