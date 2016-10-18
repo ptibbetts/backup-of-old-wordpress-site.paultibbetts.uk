@@ -12,7 +12,7 @@ image:
 note:
   - '<span class="p-job-title">CTO/Co-Founder 🆕</span>'
 locality:
-  - '<span class="p-locality">Birmingham</span> and <span class="p-locality">London</span>'
+  - '<span class="p-locality">Birmingham</span>'
 introduction:
   - 'You can read more about me on my very own <a href="http://paultibbetts.uk/about/">about page</a> or get in touch via the <a href="http://paultibbetts.uk/contact/">contact page</a>'
 email:
