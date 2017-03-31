@@ -8,11 +8,11 @@ layout: page
 permalink: https://paultibbetts.uk/contact/
 published: true
 ---
-the best way to contact me is to <a href="mailto:email@paultibbetts.uk">email me at paul tibbetts dot uk</a>
+The best way to contact me is to <a href="mailto:email@paultibbetts.uk">email me at paul tibbetts dot uk</a>.
  
-you can use my <a href="https://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if you want to make it secure
+You can use my <a href="http://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if you want to make it secure.
 
-<h2>you can also find me on</h2>
+<h2>You can also find me on</h2>
 <ul class="o-listOfLinks">
  	<li><a href="https://talk.birmingham.io/users/paul_tibbetts">Birmingham.io <span class="o-listOfLinks-meta">@paul_tibbetts</span></a></li>
  	<li><a href="https://bitbucket.org/ptibbetts">Bitbucket <span class="o-listOfLinks-meta">@ptibbetts</span></a></li>
