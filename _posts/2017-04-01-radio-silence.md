@@ -21,7 +21,9 @@ snapTW:
 ---
 A while ago I wrote down <a href="https://paultibbetts.uk/2016/10/11/reboot/">all the things I should be doing</a> and it made me feel a bit better.
 
-Paul Tibbetts: <em>The Writer</em>, the tiny part of my brain that aspires to live in a cabin by the lake and play with words for a living, had beaten the monkey. It was a change from the norm, taking some time to do a little introspection and post some thoughts that wouldn't otherwise have been… thought.
+Paul Tibbetts: <em>The Writer</em>, the tiny part of my brain that aspires to live in a cabin by the lake and play with words for a living, had beaten the monkey. <!--more-->
+
+It was a change from the norm, taking some time to do a little introspection and post some thoughts that wouldn't otherwise have been… thought.
 
 But it didn't become something I'd do regularly.
 
