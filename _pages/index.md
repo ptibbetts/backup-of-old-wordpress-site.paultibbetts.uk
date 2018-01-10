@@ -10,7 +10,7 @@ published: true
 image:
   - "36"
 note:
-  - '<span class="p-job-title">CTO/Co-Founder at GoProspr 🆕</span>'
+  - '<span class="p-job-title">CTO/Co-Founder at Inganta</span>'
 locality:
   - '<span class="p-locality">Birmingham</span>'
 introduction:
