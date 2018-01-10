@@ -10,7 +10,7 @@ published: true
 ---
 The best way to contact me is to <a href="mailto:email@paultibbetts.uk">email me at paul tibbetts dot uk</a>.
  
-You can use my <a href="http://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if you want to make it secure.
+<!--You can use my <a href="http://paultibbetts.uk/pgp/email-paultibbetts-uk/">PGP key</a> if you want to make it secure.-->
 
 <h2>You can also find me on</h2>
 <ul class="o-listOfLinks">
